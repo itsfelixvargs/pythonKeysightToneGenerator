@@ -1,0 +1,6 @@
+DevID = 'USB0::0x0957::0x2607::MY59003077::0::INSTR'
+magnitude = '99mVpp'
+offset = '0V'
+default_function = 'square'
+dutycycle = '22'
+width = '5ms'
